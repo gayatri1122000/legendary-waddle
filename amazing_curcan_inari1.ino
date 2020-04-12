@@ -1,21 +1,21 @@
 int waittime1=3000;
 int waittime2=1000;
 //set1
-  int ldp1=1;//red
-  int ldp2=2;//yellow
-  int ldp3=3;//green
+  int ldp1=1;//signal 1 red led
+  int ldp2=2;//signal 1 yellow
+  int ldp3=3;//signal 1 green
 //set2
-  int ldp4=12;//red
-  int ldp5=11;//yellow
-  int ldp6=10;//green
+  int ldp4=12;//signal 2red
+  int ldp5=11;//signal 2 yellow
+  int ldp6=10;//signal 2green
 //set3
-  int ldp7=4;//red
-  int ldp8=5;//yellow
-  int ldp9=6;//green
+  int ldp7=4;//signal 3 red
+  int ldp8=5;//signal 3 yellow
+  int ldp9=6;//signal 3 green
 //set4
-  int ldp16=7;//red
-  int ldp18=8;//yellow
-  int ldp20=9;//green
+  int ldp16=7;//signal 4 red
+  int ldp18=8;//signal 4 yellow
+  int ldp20=9;//signal 4 green
   
  int time_slot;
    
